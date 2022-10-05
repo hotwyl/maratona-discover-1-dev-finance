@@ -1,4 +1,6 @@
-# dev.finance-Maratona_Discover ( https://hotwyl.github.io/maratona_discover-1/ )
+# dev.finance-Maratona_Discover
+
+https://hotwyl.github.io/maratona_discover-1/
 
 https://www.notion.so/DevFinances-1fa9e54f6cdf4fd787852239d77d0a1e
 
